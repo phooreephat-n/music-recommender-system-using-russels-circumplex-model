@@ -1,3 +1,7 @@
+# Project Introduction
+
+This senior project focuses on developing a music recommendation system that leverages song mood prediction. By employing machine learning techniques like Support Vector Machines, Random Forest, and XGBoost, the project aims to accurately classify songs into emotional quadrants based on audio features.
+
 # Datasets Used
 
 ## 1. Music Emotion Data
