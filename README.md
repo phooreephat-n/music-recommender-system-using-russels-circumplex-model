@@ -1,7 +1,7 @@
 # Music Recommender System using Russel's Circumplex Model
 
 ## Introduction
-This senior project focuses on developing a music recommendation system that leverages song mood prediction. By employing machine learning techniques like Support Vector Machines, Random Forest, and XGBoost, the project aims to accurately classify musics into emotional quadrants based on audio features. Once the best-performing model is identified, it will be integrated into a recommendation engine built on a Two-Tower Model architecture.
+This senior project focuses on developing a music recommendation system built on a Two-Tower Model architecture that leverages song mood prediction. By employing machine learning techniques like Support Vector Machines, Random Forest, and XGBoost, the project aims to accurately classify musics into emotional quadrants based on audio features and lyrics.
 
 ## Datasets Used
 
